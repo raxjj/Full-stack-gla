@@ -1,0 +1,16 @@
+fieldset{
+    border-color: green;
+    text-decoration-color: red;
+    font-size:x-large;
+}
+*{
+    background-color: rgb(216, 213, 213);
+}
+input,select{
+    background-color: white;
+
+}
+label{
+    colo:black;
+    font-size: large;
+}

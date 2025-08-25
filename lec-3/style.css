@@ -1,0 +1,29 @@
+h1{
+    background-color: aquamarine;
+}
+
+label:visited{
+    color:green;
+}
+label{
+    color: blue;
+}
+label:hover{
+    color:black;
+
+}
+
+/* group selector */
+h2, h3, h4{
+    color:gray
+}
+/* desendant selector */
+div p{
+    color:red;
+}
+/* backgorund color
+
+ */
+.harsh{
+    background-color: brown;
+}
