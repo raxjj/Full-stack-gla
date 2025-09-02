@@ -1,0 +1,18 @@
+.static{
+    background-color: red;
+    display: inline-block;
+    padding: 50px;
+    border: 3px solid black;
+
+}
+.fixed{
+    background-color: red;
+    border: 3px solid black;
+    display: inline-block;
+    padding: 50px;
+    position: absolute;
+    top: 10%;
+    right:70%;
+    
+    
+}
